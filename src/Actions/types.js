@@ -1,0 +1,2 @@
+export const GET_CRYPTO_TICKER = "GET_CRYPTO_TICKER"
+export const GET_CRYPTO_BOOK = "GET_CRYPTO_BOOK"
